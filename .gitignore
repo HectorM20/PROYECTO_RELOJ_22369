@@ -1,0 +1,19 @@
+# Ignorar archivos de compilación y temporales de Microchip Studio
+*.o
+*.elf
+*.hex
+*.map
+*.dep
+*.obj
+*.lst
+*.d
+*.suo
+*.ncb
+*.sdf
+*.aps
+*.bak
+*.log
+*.user
+output/
+debug/
+.vs/
